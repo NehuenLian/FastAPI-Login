@@ -1,6 +1,6 @@
 # FastAPI User Authentication System (REST API)
 
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)  
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/fastapi-0.116.1-brightgreen.svg)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-2.0-blue.svg)
 
