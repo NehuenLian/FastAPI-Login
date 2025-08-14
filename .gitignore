@@ -9,3 +9,6 @@ venv/
 
 # Ignore .env
 .env
+
+# Ignore .db file
+test.db
